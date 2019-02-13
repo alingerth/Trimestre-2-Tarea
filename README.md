@@ -1,11 +1,11 @@
-### Tema 2
+### [Tema 2](https://github.com/alingerth/Trimestre-2-Tarea/tree/master/Recursos/Tema%202)
 
 Línea del Tiempo
 Utilizando el Programa Power Point, en una (1) sola diapositiva, elaborar una línea del tiempo que incluya en orden cronológico los objetos de calcular creados por el hombre antecesores a los primeros computadores.
 No utilizar ni animaciones ni efectos.
 Debe contener año, creador y función de cada máquina de calcular.
 Se invita a revisar los enlaces en la Web que le ayudaran a diseñar lineas del tiempo.
-[Recursos](https://github.com/alingerth/Trimestre-2-Tarea/tree/master/Recursos/Tema%202)
+
 
 ### Tema 3
 
