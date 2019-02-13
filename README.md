@@ -5,6 +5,7 @@ Utilizando el Programa Power Point, en una (1) sola diapositiva, elaborar una l�
 No utilizar ni animaciones ni efectos.
 Debe contener año, creador y función de cada máquina de calcular.
 Se invita a revisar los enlaces en la Web que le ayudaran a diseñar lineas del tiempo.
+*[Recursos](https://github.com/alingerth/Trimestre-2-Tarea/tree/master/Recursos/Tema%202)
 
 ### Tema 3
 
