@@ -1,4 +1,4 @@
-Tema 2
+### Tema 2
 
 Línea del Tiempo
 Utilizando el Programa Power Point, en una (1) sola diapositiva, elaborar una línea del tiempo que incluya en orden cronológico los objetos de calcular creados por el hombre antecesores a los primeros computadores.
@@ -6,20 +6,20 @@ No utilizar ni animaciones ni efectos.
 Debe contener año, creador y función de cada máquina de calcular.
 Se invita a revisar los enlaces en la Web que le ayudaran a diseñar lineas del tiempo.
 
-Tema 3
+### Tema 3
 
 Cuadro Comparativo
 Lea el Manual PDF Generaciones de Computadoras y revise los recursos Web adjuntos a este tema.
 Utilizando el programa Microsoft Word, elabore con la aplicación tabla  un cuadro comparativo referido a las características de las generaciones de computadoras.
 
-Tema 4
+### Tema 4
 
 Mapa Mental Hardware
 1. Revise el manual PDF de esta sección.
 2. Revise los recursos Web colocados en esta sección.
 3. En función a la clasificación de los periféricos del Computador (Unidades de Entrada, Central de Procesamiento, Salida y Almacenamiento), utilizando el programa Microsoft Power Point diseñar un mapa mental que contenga imágenes y palabras claves.
 
-Tema 5
+### Tema 5
 
 Mapa de Conceptos Software
 1. Revise el manual PDF de esta sección.
@@ -27,7 +27,7 @@ Mapa de Conceptos Software
 3. En función a la clasificación del software  del Computador (Sistemas Operativos, Aplicaciones y Lenguajes de Programación) utilizando el programa Microsoft Power Point diseñar un mapa conceptual,
 4. Recuerde no esperar último momento para entregar la tarea.
 
-Tema 6
+### Tema 6
 
 Procesador de Texto
 1. Transcriba el texto que se le presenta a continuación, aplicando las normas de mecanogradiado referidas a tipo, tamaño y estilo de fuente, alineación, interlineado, sangría, márgenes
@@ -44,7 +44,7 @@ los gerentes actúan mediante relaciones que tienen repercusiones que involucran
 2. Redactar y transcribir una carta en la cual una empresa solicita a otra empresa un presupuesto para la adquisición de materiales de construcción
 Nota: Guardar el archivo con su nombre y apellido
 
-Tema 7
+### Tema 7
 
 Redes e Internet
 
@@ -53,7 +53,7 @@ En grupo de dos (2) estudiantes, Investiguen los contenidos referentes a Redes e
 Elabore un formato similar al formato hoja de presentación del taller en el programa Microsoft Word.
 Independientemente que el trabajo sea en grupo, cada integrante deberá entregar el taller en el espacio habilitado en la parte inferior de esta sección.
 
-Tema 8
+### Tema 8
 
 Hoja de Calculo
 
@@ -77,7 +77,7 @@ Total de estudiates
 Elaborar un gráfico circular a partir de los datos de la tabla que muestre la representación porcentual del peso.
 
 
-Tema 9
+### Tema 9
 
 Seguridad Informática
 
@@ -86,7 +86,7 @@ En el  grupo conformado anteriormente, investiguen los contenidos referentes a S
 Elabore un formato similar al formato hoja de presentación del taller en el programa Microsoft Word.
 Entregue el taller en el espacio habilitado en la parte inferior de esta sección.
 
-Tema 10
+### Tema 10
 
 Diseño de Presentaciones
 
