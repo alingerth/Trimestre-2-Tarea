@@ -35,13 +35,13 @@ Procesador de Texto
 
 Administración de empresas
 
-`` Administración
+` Administración
 La administración se define como el proceso de diseñar y mantener un ambiente en el que las personas trabajando en grupo alcance con eficiencia metas seleccionadas. Esta se aplica a todo tipo de organizaciones bien sean pequeñas o grandes empresas lucrativas y no lucrativas,a las industrias manufactureras y a las de servicio.
 En fin la administración consiste en darle forma,de manera consistente y constante a las organizaciones. Todas las organizaciones cuentan con personas que tienen el encargo de servirles para alcanzar sus metas, llamados Gerentes,administradores etc.
 Un Gerente es una persona responsable de dirigir las actibidades que ayudan a las organizaciones para alcanzar sus metas. La medida de la eficacia de un Gerente,es el grado en que determine y alcance los objetivos apropiados.
 Los Gerentes actuan mediante relaciones que son vias de dos sentidos; una de las partes esta sujeta a la otra.
 los gerentes actúan mediante relaciones que tienen repercusiones que involucran a otras personas,para bien o para mal 
-``
+`
 2. Redactar y transcribir una carta en la cual una empresa solicita a otra empresa un presupuesto para la adquisición de materiales de construcción
 Nota: Guardar el archivo con su nombre y apellido
 
@@ -72,16 +72,17 @@ Julia Márquez    |   80,100
 
 Utilizando Fórmulas y/o funciones de calcular y anexar al cuadro lo siguiente
 
-Peso promedio
-Peso Mayor
-Peso Menor
-Total de estudiates
+- Peso promedio
+- Peso Mayor
+- Peso Menor
+- Total de estudiates
 
 Elaborar un gráfico circular a partir de los datos de la tabla que muestre la representación porcentual del peso.
 
-[PDF1](https://github.com/alingerth/Trimestre-2-Tarea/raw/master/Recursos/Tema%208/Excel%201.pdf)
-[PDF2](https://github.com/alingerth/Trimestre-2-Tarea/raw/master/Recursos/Tema%208/Excel%202.pdf)
-[PDF3](https://github.com/alingerth/Trimestre-2-Tarea/raw/master/Recursos/Tema%208/Excel%203.pdf)
+##### Tutoriales
+- [PDF1](https://github.com/alingerth/Trimestre-2-Tarea/raw/master/Recursos/Tema%208/Excel%201.pdf)
+- [PDF2](https://github.com/alingerth/Trimestre-2-Tarea/raw/master/Recursos/Tema%208/Excel%202.pdf)
+- [PDF3](https://github.com/alingerth/Trimestre-2-Tarea/raw/master/Recursos/Tema%208/Excel%203.pdf)
 
 ## Tema 9
 
@@ -96,8 +97,8 @@ Entregue el taller en el espacio habilitado en la parte inferior de esta secció
 ## Tema 10
 
 Diseño de Presentaciones
-
-Utilizando el #### [texto suministrado](https://github.com/alingerth/Trimestre-2-Tarea/blob/master/Recursos/Tema%2010/Texto%20para%20hacer%20s%C3%ADntesis.md) para hacer la síntesis, elabore una presentación en Power Point que contenga 4 diapositivas una (1) para la portada y tres (3) para la síntesis la cual debe ser presentada en gráficos de Smart Art.
+#### [texto para la síntesis](https://github.com/alingerth/Trimestre-2-Tarea/blob/master/Recursos/Tema%2010/Texto%20para%20hacer%20s%C3%ADntesis.md)
+Utilizando el texto suministrado para hacer la síntesis, elabore una presentación en Power Point que contenga 4 diapositivas una (1) para la portada y tres (3) para la síntesis la cual debe ser presentada en gráficos de Smart Art.
 
 Recuerde tomar en consideración los aspectos señalados en clase en cuanto a la tipología de la letra, el contraste entre fondo y texto, ortografía, animaciones y/o presentaciones.
 
