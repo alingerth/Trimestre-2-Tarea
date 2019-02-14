@@ -4,7 +4,7 @@ Es probable que afirmar que Internet es una red de redes sea una buena forma de 
 La forma más simple de definir una red de ordenadores sería decir que se trata de un conjunto de ordenadores conectados entre sí. Esta conexión entre los equipos constituye la infraestructura imprescindible para que puedan compartir datos y recursos entre ellos.
  Switch de Red
 
-### Dependiendo de su tamaño estas redes pueden clasificarse en dos categorías
+Dependiendo de su tamaño estas redes pueden clasificarse en dos categorías
 
 Las llamadas redes de área local también denominadas con el acrónimo LAN (Local Area Network), que son las que abarcan una zona no demasiado grande, tales como un par de ordenadores domésticos, los ordenadores de un aula o centro, los ordenadores de una empresa, etc. en las cuales las conexiones se realizan mediante cables.
 
