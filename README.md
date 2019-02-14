@@ -1,3 +1,10 @@
+# Importante leer o descargar el siguiente pdf
+en el siguiente pdf podran encontrar toda la información de los siguientes temas
+- Tema 3
+- Tema 4
+- Tema 5
+- Tema 6
+
 ## Tema 2
 
 Línea del Tiempo
