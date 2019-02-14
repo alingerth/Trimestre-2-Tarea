@@ -20,7 +20,7 @@ La computadora más exitosa de la primera generación fue la IBM 650, de la cual
 
 En esta generación las computadoras se reducen de tamaño y son de menor costo. Aparecen muchas compañías y las computadoras eran bastante avanzadas para su época como la serie 5000 de Burroughs y la ATLAS de la Universidad de Manchester. Algunas computadoras se programaban con cinta perforadas y otras por medio de cableado en un tablero.
 
-# Características de está generación:
+### Características de está generación:
 
 Usaban transistores para procesar información.
 Los transistores eran más rápidos, pequeños y más confiables que los tubos al vacío.
@@ -37,7 +37,7 @@ Se comenzó a disminuir el tamaño de las computadoras.
 	
 La tercera generación de computadoras emergió con el desarrollo de circuitos integrados (pastillas de silicio) en las que se colocan miles de componentes electrónicos en una integración en miniatura. Las computadoras nuevamente se hicieron más pequeñas, más rápidas, desprendían menos calor y eran energéticamente más eficientes. El ordenador IBM-360 dominó las ventas de la tercera generación de ordenadores desde su presentación en 1965. El PDP-8 de la Digital Equipment Corporation fue el primer miniordenador.
 
-#Características de está generación:
+### Características de está generación:
 
 Se desarrollaron circuitos integrados para procesar información.
 Se desarrollaron los "chips" para almacenar y procesar la información. Un "chip" es una pieza de silicio que contiene los componentes electrónicos en miniatura llamados semiconductores.
@@ -49,11 +49,11 @@ Se desarrollan las minicomputadoras IBM 360 y DEC PDP-1.
 Otra vez las computadoras se tornan más pequeñas, más ligeras y más eficientes.
 Consumían menos electricidad, por lo tanto, generaban menos calor.
 
-### Cuarta Generación (1971-1988)
+## Cuarta Generación (1971-1988)
 
 Aparecen los microprocesadores que es un gran adelanto de la microelectrónica, son circuitos integrados de alta densidad y con una velocidad impresionante. Las microcomputadoras con base en estos circuitos son extremadamente pequeñas y baratas, por lo que su uso se extiende al mercado industrial. Aquí nacen las computadoras personales que han adquirido proporciones enormes y que han influido en la sociedad en general sobre la llamada "revolución informática".
 
-# Características de está generación:
+### Características de está generación:
 
 Se desarrolló el microprocesador.
 Se colocan más circuitos dentro de un "chip".
@@ -65,7 +65,7 @@ Se reemplaza la memoria de anillos magnéticos por la memoria de "chips" de sili
 Se desarrollan las microcomputadoras, o sea, computadoras personales o PC.
 Se desarrollan las supercomputadoras.
 
-### Quinta Generación (1983 al presente)
+## Quinta Generación (1983 al presente)
 
 En vista de la acelerada marcha de la microelectrónica, la sociedad industrial se ha dado a la tarea de poner también a esa altura el desarrollo del software y los sistemas con que se manejan las computadoras. Surge la competencia internacional por el dominio del mercado de la computación, en la que se perfilan dos líderes que, sin embargo, no han podido alcanzar el nivel que se desea: la capacidad de comunicarse con la computadora en un lenguaje más cotidiano y no a través de códigos o lenguajes de control especializados.
 
