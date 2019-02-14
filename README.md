@@ -97,7 +97,7 @@ Entregue el taller en el espacio habilitado en la parte inferior de esta secció
 ## Tema 10
 
 Diseño de Presentaciones
-### [texto para la síntesis](https://github.com/alingerth/Trimestre-2-Tarea/blob/master/Recursos/Tema%2010/Texto%20para%20hacer%20s%C3%ADntesis.md)
+### [Texto para la síntesis](https://github.com/alingerth/Trimestre-2-Tarea/blob/master/Recursos/Tema%2010/Texto%20para%20hacer%20s%C3%ADntesis.md)
 Utilizando el texto suministrado para hacer la síntesis, elabore una presentación en Power Point que contenga 4 diapositivas una (1) para la portada y tres (3) para la síntesis la cual debe ser presentada en gráficos de Smart Art.
 
 Recuerde tomar en consideración los aspectos señalados en clase en cuanto a la tipología de la letra, el contraste entre fondo y texto, ortografía, animaciones y/o presentaciones.
