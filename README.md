@@ -10,8 +10,8 @@ Se invita a revisar los enlaces en la Web que le ayudaran a diseñar lineas del 
 ### [Tema 3](https://github.com/alingerth/Trimestre-2-Tarea/tree/master/Recursos/Tema%203)
 
 Cuadro Comparativo
-Lea el Manual PDF Generaciones de Computadoras y revise los recursos Web adjuntos a este tema.
-Utilizando el programa Microsoft Word, elabore con la aplicación tabla  un cuadro comparativo referido a las características de las generaciones de computadoras.
+[Lea el Manual PDF](https://github.com/alingerth/Trimestre-2-Tarea/raw/master/Recursos/Tema%203/Generaciones%20%20del%20Computador%20Mayo%202015.pdf) Generaciones de Computadoras y revise los recursos Web adjuntos a este tema.
+Utilizando el programa Microsoft Word, elabore con la aplicación tabla  un cuadro comparativo referido a las características de las [generaciones de computadoras](https://github.com/alingerth/Trimestre-2-Tarea/blob/master/Recursos/Tema%203/Generaciones%20de%20Computadoras.md).
 
 ### [Tema 4](https://github.com/alingerth/Trimestre-2-Tarea/tree/master/Recursos/Tema%204)
 
