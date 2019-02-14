@@ -1,4 +1,4 @@
-Elaborar un cuadro dónde sea tabulada la siguiente inforación:
+### Elaborar un cuadro dónde sea tabulada la siguiente inforación:
 
 Estudiantes         Peso(Kg) 
 Pablo Rodríguez     55,300 
