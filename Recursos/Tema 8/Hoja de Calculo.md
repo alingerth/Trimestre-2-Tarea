@@ -1,6 +1,6 @@
 ### Elaborar un cuadro dónde sea tabulada la siguiente inforación:
 
-* Estudiantes         Peso(Kg) 
+Estudiantes         Peso(Kg) 
 * Pablo Rodríguez     55,300 
 * José Fernández      60,800 
 * Luis Martínez       75,150 
