@@ -34,7 +34,7 @@ Mapa de Conceptos Software
 ## Tema 6
 
 Procesador de Texto
-1. Transcriba el texto que se le presenta a continuación, aplicando las normas de mecanogradiado referidas a tipo, tamaño y estilo de fuente, alineación, interlineado, sangría, márgenes
+1. Transcriba el texto que se le presenta a continuación, aplicando las [normas de mecanogradiado](https://github.com/alingerth/Trimestre-2-Tarea/blob/master/Recursos/Tema%206/Normas%20de%20mecanografiado%20e%20Impresi%C3%B3n.pdf) referidas a tipo, tamaño y estilo de fuente, alineación, interlineado, sangría, márgenes
 
 Administración de empresas
 
