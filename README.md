@@ -39,11 +39,8 @@ Procesador de Texto
 Administración de empresas
 
 Administración
-La administración se define como el proceso de diseñar y mantener un ambiente en el que las personas trabajando en grupo alcance con eficiencia metas seleccionadas. Esta se aplica a todo tipo de organizaciones bien sean pequeñas o grandes empresas lucrativas y no lucrativas,a las industrias manufactureras y a las de servicio.
-En fin la administración consiste en darle forma,de manera consistente y constante a las organizaciones. Todas las organizaciones cuentan con personas que tienen el encargo de servirles para alcanzar sus metas, llamados Gerentes,administradores etc.
-Un Gerente es una persona responsable de dirigir las actibidades que ayudan a las organizaciones para alcanzar sus metas. La medida de la eficacia de un Gerente,es el grado en que determine y alcance los objetivos apropiados.
-Los Gerentes actuan mediante relaciones que son vias de dos sentidos; una de las partes esta sujeta a la otra.
-los gerentes actúan mediante relaciones que tienen repercusiones que involucran a otras personas,para bien o para mal 
+
+Administración La administración se define como el proceso de diseñar y mantener un ambiente en el que las personas trabajando en grupo alcance con eficiencia metas seleccionadas. Esta se aplica a todo tipo de organizaciones bien sean pequeñas o grandes empresas lucrativas y no lucrativas, a las industrias manufactureras y a las de servicio. En fin la administración consiste en darle forma, dé manera consistente y constante a las organizaciones. Todas las organizaciones cuentan con personas que tienen el encargo de servirles para alcanzar sus metas, llamados Gerentes, administradores etc. Un Gerente es una persona responsable de dirigir las actividades que ayudan a las organizaciones para alcanzar sus metas. La medida de la eficacia de un Gerente, es el grado en que determine y alcance los objetivos apropiados. Los Gerentes actúan mediante relaciones que son vías de dos sentidos; una de las partes está sujeta a la otra. Los gerentes actúan mediante relaciones que tienen repercusiones que involucran a otras personas, para bien o para mal
 
 2. Redactar y transcribir una carta en la cual una empresa solicita a otra empresa un presupuesto para la adquisición de materiales de construcción
 Nota: Guardar el archivo con su nombre y apellido
